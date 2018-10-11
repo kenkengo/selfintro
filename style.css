@@ -1,0 +1,23 @@
+.footer{
+  height:120px;
+  background-color: #bc8f8f;
+
+  padding:20px 60px 25px 60px;
+}
+.footer-logo{
+  float:left;
+  font-size:32px;
+  line-height: 0px;
+}
+.footer-list{
+float:right;
+
+}
+.footer-list a{
+  color:black;
+}
+.footer-list li{
+  margin-bottom:2px;
+}
+
+/***********************************************************************/
