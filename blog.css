@@ -33,11 +33,35 @@ a{
 .top-wrapper{
   height:650px;
   width:100%;
-  padding-top:100px;
+  padding-top:90px;
 }
-.top-wrapper h1{
-  font-size:200px;
+.left-space{
+  width:68%;
+  height:650px;
+  float:left;
+  background-color: white;
+
+}
+.left-space p{
+  font-size:150px;
+  font-weight: bold;
   text-align: center;
+}
+.right-space{
+  width:30%;
+  height:650px;
+  float:right;
+border-left: 3px solid red;
+  background-color: #ffefef;
+}
+.menyu{
+  width:70%;
+  margin:auto;
+  padding-top: 30px;
+}
+.menyu p{
+  padding-top: 10px;
+  border-bottom: 1px solid #ffaaaa;
 }
 
 /***********************************************************************/
@@ -71,3 +95,4 @@ float:right;
 }
 
 /***********************************************************************/
+
