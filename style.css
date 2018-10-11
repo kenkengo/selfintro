@@ -31,7 +31,7 @@ a{
 }
 /***********************************************************************/
 .top-wrapper{
-  height:660px;
+  height:600px;
   width:100%;
 }
 .image{
@@ -46,7 +46,7 @@ a{
   top:0;
 }
 .img1{
-  height:660px;
+  height:600px;
   max-width:90%;
   margin: auto;
   display:block;
